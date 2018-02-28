@@ -1,5 +1,5 @@
 function add (a, b) {
-  a = 340
-  b = 341
+  a = 1
+  b = 1
 return a + b
 }
